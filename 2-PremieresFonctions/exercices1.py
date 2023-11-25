@@ -5,8 +5,7 @@ def getUserInfo() :
 def fromFileToAnother() :
     """Ask the user a file path in and a file path out and create the file path out from the
     content of the file path in"""
-    # hint : create several method and call them here
-    # askFilePath,
+    
 
 def saveUserInformation() :
     """Ask the user his name and his age and save it in the file userInfo.txt
